@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="40dp"
+    android:id="@+id/layout">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/i_am"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="30sp"/>
+
+    <com.addisonelliott.segmentedbutton.SegmentedButtonGroup
+        android:layout_marginTop="30dp"
+        android:id="@+id/radioRealButtonGroup"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:elevation="1dp"
+        android:background="@color/gray"
+        app:borderColor="@android:color/transparent"
+        app:divider="@color/quantum_white_100"
+        app:position="0"
+        app:radius="20dp"
+        app:ripple="true"
+        app:selectedBackground="@color/main_color">
+
+        <com.addisonelliott.segmentedbutton.SegmentedButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:drawableWidth="25dp"
+            app:drawableHeight="25dp"
+            app:drawable="@drawable/ic_person_black_24dp"
+            app:drawableTint="@color/white"
+            app:drawableGravity="top"
+            app:text="@string/customer"
+            app:textColor="@color/white" />
+
+        <com.addisonelliott.segmentedbutton.SegmentedButton
+            app:drawableTint="@color/white"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            app:drawableWidth="48dp"
+            app:drawableHeight="48dp"
+            app:drawable="@drawable/ic_type_1"
+            app:drawableGravity="top"
+            app:text="@string/driver"
+            app:textColor="@color/white" />
+    </com.addisonelliott.segmentedbutton.SegmentedButtonGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:background="@color/colorAccent"
+        android:text="@string/save"
+        android:id="@+id/register"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_customer_content.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_customer_content.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/dialog_card.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/dialog_card.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_driver_content.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_driver_content.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_history.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_history.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_customer_settings.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_customer_settings.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/dialog_ride_review.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/dialog_ride_review.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_driver_choose_type.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_driver_choose_type.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/nav_header_main.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_payout.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_payout.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_add_payment.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_add_payment.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_map_driver.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_map_driver.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_history_single.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_history_single.xml"
+    },
+    {
+        "merged": "com.rec.uber.app-mergeDebugResources-57:/layout/activity_driver_content.xml",
+        "source": "com.rec.uber.app-main-60:/layout/activity_driver_content.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_details.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/item_history.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_history.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/item_type.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_type.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/item_payout.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_payout.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/add_payment_content.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/add_payment_content.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_driver_settings.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_driver_settings.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/fragment_menu.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_map_customer.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_map_customer.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_costumer_content.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_costumer_content.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_splash.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/item_card.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_card.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/fragment_login.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/item_vehicle_type.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_vehicle_type.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/item_marker.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_marker.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/item__card_request.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item__card_request.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_payment.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/activity_authentication.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_authentication.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/progress_dialog.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-mergeDebugResources-57:/layout/fragment_registration.xml",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/fragment_registration.xml"
+    }
+]

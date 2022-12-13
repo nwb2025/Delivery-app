@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rec.uber.app-mergeDebugResources-56:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/newwealthbuilder/.gradle/caches/transforms-3/d44a9da048a3b61c555bf362807d523b/transformed/jetified-pingplacepicker-1.1.2/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}
