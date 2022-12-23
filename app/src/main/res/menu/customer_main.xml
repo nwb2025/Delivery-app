@@ -16,6 +16,11 @@
             android:id="@+id/payment"
             android:title="Payment"
             android:tooltipText="Change Account Payment Settings"/>
+
+        <item
+            android:id="@+id/about"
+            android:title="@string/about"
+            android:tooltipText="About developers" />
     </group>
 
 </menu>

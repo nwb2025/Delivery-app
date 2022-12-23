@@ -4,7 +4,6 @@
     <color name="colorPrimaryDark">#222A33</color>
     <color name="colorAccent">#00BCD4</color>
     <color name="colorAccentDark">#007285</color>
-    <color name="colorRed">#F44336</color>
     <color name="black">#000000</color>
     <color name="grey">#707070</color>
     <color name="lightGrey">#C2C2C2</color>
@@ -21,6 +20,6 @@
     <color name="dark_lilac">#D0D6EE</color>
     <color name="pale_yellow">#FEF1D8</color>
     <color name="green">#458549</color>
-    <color name="red">#F44336</color>
+    <color name="red">#ABF44336</color>
 
 </resources>

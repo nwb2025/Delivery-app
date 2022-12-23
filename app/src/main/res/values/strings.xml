@@ -5,7 +5,7 @@
     <string name="stripe_client_key" templateMergeStrategy="preserve" translatable="false">stripe_sk_key</string>
     <string name="firebase_hosting_url" templateMergeStrategy="preserve" translatable="false">https://ubercloneapp-a2cbc.web.app/</string>
 
-    <string name="app_name">Uber Clone</string>
+    <string name="app_name">Go</string>
     <string name="phone_driver">Phone</string>
     <string name="call_uber">Call Car</string>
     <string name="type_4">Bike</string>
@@ -253,24 +253,24 @@
     <string name="driver_no_phone">Driver doesn\'t have a connected number</string>
     <string name="your_trips">Your Trips</string>
     <string name="waiting_for_location">Waiting for Location</string>
-    <string name="save">save</string>
+    <string name="save">Save</string>
     <string name="payment">Payment</string>
     <string name="add_card">Add Card</string>
     <string name="current_location">Current Location</string>
     <string name="no_driver_found">Unfortunately, No drivers were found around you.</string>
     <string name="no_drivers_around">No drivers around</string>
     <string name="ride_in_progress">Ride In Progress</string>
-    <string name="payout_amount">0 €</string>
+    <string name="payout_amount">0.00 $</string>
     <string name="no_default_payment">No default payment available</string>
     <string name="no_payment_available_message">you have to setup a payment card before asking for a driver.</string>
     <string name="wait_send_payout">Please wait while we send you the payout</string>
     <string name="payout_issued">Payout Issued</string>
-    <string name="license">license</string>
-    <string name="no_rides_to_show">No Rides to show</string>
+    <string name="license">License</string>
+    <string name="no_rides_to_show">No trips to show</string>
     <string name="type">Type</string>
     <string name="service">Service</string>
     <string name="how_was_your_ride">How was your ride?</string>
-    <string name="money_type"> €</string>
+    <string name="money_type"> $</string>
     <string name="double_dash">--</string>
     <string name="there_doesn_t_seem_to_be_a_driver_near_you_you_can_cancel_or_keep_searching">There doesn\'t seem to be a driver near you, you can cancel or keep searching.</string>
     <string name="available_for_payout">Available for payout:</string>
@@ -298,6 +298,8 @@
     <string name="i_am">I am</string>
     <string name="confirm_request">Confirm Request</string>
     <string name="online">Online</string>
+    <string name="car_make">Car make</string>
+    <string name="about">About us</string>
 
 
 </resources>

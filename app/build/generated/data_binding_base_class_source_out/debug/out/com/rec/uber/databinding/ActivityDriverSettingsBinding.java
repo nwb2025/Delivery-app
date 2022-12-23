@@ -13,6 +13,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.textfield.TextInputLayout;
 import com.rec.uber.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -46,10 +47,13 @@ public final class ActivityDriverSettingsBinding implements ViewBinding {
   @NonNull
   public final EditText service;
 
+  @NonNull
+  public final TextInputLayout tFname;
+
   private ActivityDriverSettingsBinding(@NonNull ScrollView rootView, @NonNull EditText car,
       @NonNull Button confirm, @NonNull EditText license, @NonNull Toolbar myToolbar,
       @NonNull EditText name, @NonNull EditText phone, @NonNull ImageView profileImage,
-      @NonNull EditText service) {
+      @NonNull EditText service, @NonNull TextInputLayout tFname) {
     this.rootView = rootView;
     this.car = car;
     this.confirm = confirm;
@@ -59,6 +63,7 @@ public final class ActivityDriverSettingsBinding implements ViewBinding {
     this.phone = phone;
     this.profileImage = profileImage;
     this.service = service;
+    this.tFname = tFname;
   }
 
   @Override
@@ -136,8 +141,14 @@ public final class ActivityDriverSettingsBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.tFname;
+      TextInputLayout tFname = ViewBindings.findChildViewById(rootView, id);
+      if (tFname == null) {
+        break missingId;
+      }
+
       return new ActivityDriverSettingsBinding((ScrollView) rootView, car, confirm, license,
-          myToolbar, name, phone, profileImage, service);
+          myToolbar, name, phone, profileImage, service, tFname);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

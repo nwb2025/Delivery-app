@@ -86,9 +86,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.UberClone" >
+        android:theme="@style/Theme.Go" >
         <activity
-            android:name="com.rec.uber.ui.SplashActivity"
+            android:name="com.rec.go.ui.SplashActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -108,11 +108,11 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
-        <activity android:name="com.rec.uber.Driver.DriverChooseTypeActivity" />
-        <activity android:name="com.rec.uber.Payment.PaymentActivity" />
-        <activity android:name="com.rec.uber.Payment.PayoutActivity" />
-        <activity android:name="com.rec.uber.Payment.AddPaymentActivity" />
-        <activity android:name="com.rec.uber.Login.DetailsActivity" />
+        <activity android:name="com.rec.go.ui.driver.DriverChooseTypeActivity" />
+        <activity android:name="com.rec.go.ui.payment.PaymentActivity" />
+        <activity android:name="com.rec.go.ui.payment.PayoutActivity" />
+        <activity android:name="com.rec.go.ui.payment.AddPaymentActivity" />
+        <activity android:name="com.rec.go.ui.login.AuthenticationActivity$DetailsActivity" />
 
         <uses-library
             android:name="org.apache.http.legacy"
@@ -120,34 +120,34 @@
         <uses-library android:name="com.google.android.maps" />
 
         <activity
-            android:name="com.rec.uber.Login.LauncherActivity"
+            android:name="com.rec.go.ui.login.AuthenticationActivity$LauncherActivity"
             android:exported="true"
             android:screenOrientation="fullSensor" >
         </activity>
         <activity
-            android:name="com.rec.uber.ui.login.AuthenticationActivity"
+            android:name="com.rec.go.ui.login.AuthenticationActivity"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.rec.uber.Customer.CustomerMapActivity"
+            android:name="com.rec.go.ui.customer.CustomerMapActivity"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.rec.uber.Customer.CustomerSettingsActivity"
+            android:name="com.rec.go.ui.customer.CustomerSettingsActivity"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.rec.uber.Driver.DriverSettingsActivity"
+            android:name="com.rec.go.ui.driver.DriverSettingsActivity"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.rec.uber.History.HistoryActivity"
+            android:name="com.rec.go.ui.history.HistoryActivity"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.rec.uber.History.HistorySingleActivity"
+            android:name="com.rec.go.ui.history.HistorySingleActivity"
             android:screenOrientation="fullSensor" />
         <activity
-            android:name="com.rec.uber.Driver.DriverMapActivity"
+            android:name="com.rec.go.ui.driver.DriverMapActivity"
             android:screenOrientation="fullSensor"
-            android:theme="@style/Theme.UberClone" />
+            android:theme="@style/Theme.Go" />
 
-        <service android:name="com.rec.uber.Utils.onAppKilled" />
+        <service android:name="com.rec.go.utils.onAppKilled" />
 
         <activity
             android:name="com.stripe.android.view.AddPaymentMethodActivity"

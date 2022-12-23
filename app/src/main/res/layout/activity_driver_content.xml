@@ -14,7 +14,7 @@
             android:name="com.google.android.gms.maps.SupportMapFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            tools:context="com.rec.uber.Driver.DriverMapActivity" />
+            tools:context=".ui.driver.DriverMapActivity" />
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -43,7 +43,9 @@
                 android:paddingRight="20sp"
                 android:paddingBottom="10sp"
                 android:text="@string/online"
-                android:textColor="@android:color/white" />
+                android:trackTint="@color/white"
+                android:thumbTint="@color/main_color"
+                android:textColor="@android:color/white"/>
         </RelativeLayout>
 
         <RelativeLayout
@@ -104,8 +106,7 @@
                                 android:layout_height="match_parent"
                                 android:background="@color/white"
                                 android:padding="15sp"
-                                android:src="@drawable/ic_cancel_black_24dp" />
-
+                                android:src="@drawable/ic_cancel_black_24dp"/>
                         </LinearLayout>
 
                         <View
@@ -118,7 +119,6 @@
                             android:layout_height="wrap_content"
                             android:orientation="horizontal"
                             android:padding="20sp">
-
 
                             <com.google.android.material.floatingactionbutton.FloatingActionButton
                                 android:elevation="0dp"
@@ -161,7 +161,6 @@
                                 android:src="@drawable/ic_map_black_24dp"
                                 android:text="@string/phone_driver"
                                 android:textColor="@android:color/white" />
-
                         </LinearLayout>
 
                         <com.ncorti.slidetoact.SlideToActView
@@ -179,7 +178,6 @@
                             app:text_style="bold"
                             app:text="@string/picked_customer"/>
                     </LinearLayout>
-
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
         </RelativeLayout>

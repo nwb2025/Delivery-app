@@ -25,7 +25,7 @@
         app:theme="@style/NavigationDrawerStyle" >
 
         <TextView
-            android:background="@color/colorRed"
+            android:background="@color/red"
             android:id="@+id/logout"
             android:layout_gravity="bottom"
             android:layout_width="match_parent"

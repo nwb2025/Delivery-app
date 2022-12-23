@@ -17,5 +17,10 @@
             android:id="@+id/payout"
             android:title="@string/payout"
             android:tooltipText="Issue payout"/>
+
+        <item
+            android:id="@+id/about"
+            android:title="@string/about"
+            android:tooltipText="About developers" />
     </group>
 </menu>

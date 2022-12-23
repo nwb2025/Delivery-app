@@ -1,7 +1,7 @@
 [
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-mdpi_ic_phone.png.flat",
@@ -9,7 +9,7 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_exit_to_app_black_24dp.xml.flat",
@@ -29,7 +29,7 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxxhdpi_ic_car.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxxhdpi/ic_car.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxxhdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-hdpi_ic_radio_filled.png.flat",
@@ -72,8 +72,12 @@
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable/ic_credit_card_black_24dp.xml"
     },
     {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/drawable/ic_launcher_background.xml"
+    },
+    {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_activity_map_customer.xml.flat",
@@ -93,11 +97,11 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-mdpi/ic_launcher_round.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-mdpi_ic_radio.png.flat",
@@ -106,10 +110,6 @@
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-xxhdpi_ic_start.png.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable-xxhdpi/ic_start.png"
-    },
-    {
-        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_activity_costumer_content.xml.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_costumer_content.xml"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_star_black_24dp.xml.flat",
@@ -145,11 +145,11 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-hdpi/ic_launcher.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_fragment_menu.xml.flat",
@@ -177,15 +177,23 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-hdpi_ic_car.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-hdpi/ic_car.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-hdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-mdpi/ic_launcher.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_nav_header_main.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-hdpi_ic_car.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-pngs-53:/drawable-hdpi/ic_car.png"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-xhdpi_ic_car.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-pngs-53:/drawable-xhdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_visa.xml.flat",
@@ -193,23 +201,27 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-hdpi/ic_launcher_foreground.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/anim_slide_down.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/anim/slide_down.xml"
     },
     {
-        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_item_card.xml.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_card.xml"
-    },
-    {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_activity_history_single.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_history_single.xml"
     },
     {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_item_card.xml.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_card.xml"
+    },
+    {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_item__card_request.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item__card_request.xml"
+    },
+    {
+        "merged": "com.rec.uber.app-merged_res-58:/layout_fragment_menu.xml.flat",
+        "source": "com.rec.uber.app-main-60:/layout/fragment_menu.xml"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_keyboard_arrow_up_black_24dp.xml.flat",
@@ -228,8 +240,8 @@
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_authentication.xml"
     },
     {
-        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_item_type.xml.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_type.xml"
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-xxxhdpi_ic_car.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-pngs-53:/drawable-xxxhdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_type_4.xml.flat",
@@ -240,20 +252,24 @@
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable/ic_sentiment_dissatisfied_black_24dp.xml"
     },
     {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-anydpi-v24_ic_car.xml.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-pngs-53:/drawable-anydpi-v24/ic_car.xml"
+    },
+    {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_activity_driver_content.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_driver_content.xml"
     },
     {
-        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_item_vehicle_type.xml.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_vehicle_type.xml"
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_call_black_24dp.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable/ic_call_black_24dp.xml"
     },
     {
-        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_item_vehicle_type.xml.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/item_vehicle_type.xml"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-mdpi_ic_menu.png.flat",
@@ -288,24 +304,28 @@
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable/ic_attach_money_black_24dp.xml"
     },
     {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-xxhdpi_ic_car.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-pngs-53:/drawable-xxhdpi/ic_car.png"
+    },
+    {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-mdpi_ic_default_user.png.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-mdpi/ic_default_user.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xhdpi/ic_launcher_round.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_chip.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable/ic_chip.xml"
     },
     {
-        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxhdpi_ic_car.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxhdpi/ic_car.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxhdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_shadow.xml.flat",
@@ -313,7 +333,7 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-hdpi_ic_phone.png.flat",
@@ -332,16 +352,12 @@
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable/ic_map_black_24dp.xml"
     },
     {
-        "merged": "com.rec.uber.app-merged_res-58:/layout_activity_driver_content.xml.flat",
-        "source": "com.rec.uber.app-main-60:/layout/activity_driver_content.xml"
-    },
-    {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_activity_payment.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_payment.xml"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xhdpi/ic_launcher.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/menu_driver_main.xml.flat",
@@ -361,15 +377,19 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xhdpi_ic_car.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xhdpi/ic_car.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xhdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxxhdpi/ic_launcher.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_arrow_forward_black_24dp.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/drawable/ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable_ic_car_background.xml.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/drawable/ic_car_background.xml"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-mdpi_ic_radio_filled.png.flat",
@@ -377,7 +397,7 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-hdpi/ic_launcher_round.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-anydpi_ic_phone.xml.flat",
@@ -394,6 +414,10 @@
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_activity_splash.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-mdpi_ic_car.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-pngs-53:/drawable-mdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_item_payout.xml.flat",
@@ -413,7 +437,7 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-mdpi_ic_car.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-mdpi/ic_car.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-mdpi/ic_car.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_progress_dialog.xml.flat",
@@ -429,7 +453,7 @@
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/mipmap-xxhdpi/ic_launcher.png"
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-debug-59:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-xhdpi_ic_phone.png.flat",
@@ -450,5 +474,9 @@
     {
         "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/layout_fragment_login.xml.flat",
         "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-main-60:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-merged_res-58:/drawable-ldpi_ic_car.png.flat",
+        "source": "/Users/newwealthbuilder/.gradle/daemon/7.4/com.rec.uber.app-pngs-53:/drawable-ldpi/ic_car.png"
     }
 ]

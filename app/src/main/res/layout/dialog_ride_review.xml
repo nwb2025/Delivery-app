@@ -70,7 +70,7 @@
             android:layout_height="wrap_content"
             android:text="@string/confirm"
             android:background="@color/colorAccent"
-            android:textColor="@color/white"/>
+            android:textColor="@color/black"/>
 
     </LinearLayout>
 </RelativeLayout>

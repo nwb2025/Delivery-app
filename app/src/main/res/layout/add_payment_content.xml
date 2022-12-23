@@ -34,7 +34,11 @@
         android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:backgroundTint="@android:color/holo_blue_light"
+        android:background="@drawable/button_main_style"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="18sp"
+        android:textAllCaps="false"
         app:layout_constraintTop_toBottomOf="@+id/cardInputWidget"
         app:layout_constraintStart_toStartOf="@+id/cardInputWidget"
         app:layout_constraintEnd_toEndOf="@+id/cardInputWidget"/>

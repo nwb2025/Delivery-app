@@ -221,7 +221,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:layout_marginStart="10sp"
-                        android:backgroundTint="@color/colorRed"
+                        android:backgroundTint="@color/red"
                         android:elevation="0dp"
                         android:src="@drawable/ic_cancel_black_24dp"
                         android:text="@string/phone_driver"
