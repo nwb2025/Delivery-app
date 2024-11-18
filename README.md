@@ -1,4 +1,4 @@
-# Delivery-app
+# Delivery-app\n
 A delivery application where users can request rides or sign up as drivers to offer services.
 Tech Stack:
     Android SDK
