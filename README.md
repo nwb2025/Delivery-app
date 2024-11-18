@@ -1,10 +1,12 @@
 # Delivery-app
-Delivery application that allows users to request a ride/ work as a driver. 
-
-Technology stack:
-- Android SDK
-- Java as a primary programming language
-- Firebase services (authentication, real time database and storage).
-- Stripe for accepting payments
-- Onesignal library
-- Google Maps Api
+A delivery application where users can request rides or sign up as drivers to offer services.
+Tech Stack:
+    Android SDK
+    Java: Primary programming language
+    Firebase Services:
+        Authentication
+        Real-time Database
+        Storage
+    Stripe: Integrated for payment processing
+    OneSignal: For efficient push notifications and user engagement
+    Google Maps API: Enables real-time navigation and location tracking
